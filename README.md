@@ -1,3 +1,3 @@
 # Disenador_freelance_landing_page
-Practicing with css
-You can watch this page also in: https://freelancer-maycol.netlify.app/
+<p> Practicing with css </p>
+<p>You can find this page in <a href="https://freelancer-maycol.netlify.app/">Netlify</a></p>
